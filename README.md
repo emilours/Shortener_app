@@ -162,11 +162,6 @@ This endpoint requires the secret key of the shortened URL. Once entered, it wil
 
 ![Delete URL](assets/DeactivateURL.png)
 
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
 ## Sources
 
 The following resources were used to build and understand the implementation of this project:
