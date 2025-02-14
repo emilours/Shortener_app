@@ -30,7 +30,7 @@ Make sure you have the following installed on your system:
    Clone the project repository from GitHub:
 
    ```bash
-    git clone git@github.com:emilours/Shortener_app.git
+    git clone git@github.com:emilours/Shortener_app.git Shortener_app_project
     ```
 
     Create a virtual environment and activate it:
