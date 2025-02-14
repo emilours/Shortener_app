@@ -1,0 +1,32 @@
+# Ignore virtual environments
+venv/
+*.venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variable files
+.env
+
+# Ignore SQLite database file (or other DB files)
+*.db
+
+# Ignore logs and temporary files
+*.log
+*.bak
+*.swp
+*.swo
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore coverage reports
+.coverage
+coverage.xml
